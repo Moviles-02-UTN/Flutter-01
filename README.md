@@ -5,14 +5,16 @@
 
 ## 📋 Información General
 
-- Universidad: Universidad Técnica Nacional (UTN) - Sede Pacífico
-- Curso: ITI-721 - Desarrollo de Aplicaciones para Dispositivos Móviles II
-- Proyecto: appflutter_01
-- Descripción: Aplicación demostrativa de widgets de navegación y menús en Flutter.
-
-## 🧭 Objetivo del Proyecto
-
-Esta app sirve como guía práctica para implementar distintos tipos de menús en Flutter con Material Design, incluyendo navegación entre pantallas y componentes interactivos de interfaz.
+* **Universidad:** Universidad Técnica Nacional (UTN) - Sede Pacífico
+* **Curso:** ITI-721 - Desarrollo de Aplicaciones para Dispositivos Móviles II
+* **Profesor:** Jorge Ruiz.
+* **Periodo:** 1C-2026.
+* **Proyecto:** appflutter_01
+* **Descripción:** Aplicación demostrativa de widgets de navegación y menús en Flutter.
+* **Integrantes:**
+    * Luis Alejandro López Reyes
+    * Sebastián Rodriguez Mesen
+    * Samiel Marín Cambronero
 
 ## 🏗️ Estructura del Proyecto
 
