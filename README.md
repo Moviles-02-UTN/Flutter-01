@@ -16,6 +16,10 @@
     * Sebastián Rodriguez Mesen
     * Samiel Marín Cambronero
 
+## 📝 Documento paso a paso
+
+- Guía completa: https://docs.google.com/document/d/1wfS55FDrkhcB0yk-Y6auuN2Oc7gi8K38BVe9wZzNWms/edit?tab=t.0#heading=h.pj806fwn9pbf
+
 ## 🏗️ Estructura del Proyecto
 
 El código principal está en lib/.
@@ -48,26 +52,6 @@ Recursos estáticos:
 - Bottom Navigation Bar
 - Popup Menu
 - Modal Bottom Sheet con estado interno y persistencia de selección
-
-## 🧪 Indicaciones
-
-Investigación de los siguientes elementos:
-
-1. Uso de diferentes tipos de menús:
-	- Simple Bottom Sheet Menus
-	- Dropdown Menus (Dropdown Buttons)
-	- Drawer Menus (Navigation Drawers)
-	- Bottom Navigation Bars
-	- Custom Menus
-	- Modal Bottom Sheets with Complex Content
-
-Referencias:
-
-- MenuBar Class: https://api.flutter.dev/flutter/material/MenuBar-class.html
-- Navigation & routing: https://docs.flutter.dev/ui/navigation
-- Navigation Bar Class: https://api.flutter.dev/flutter/material/NavigationBar-class.html
-- Navigation Drawer Class: https://api.flutter.dev/flutter/material/Drawer-class.html
-- Scaffold Class: https://api.flutter.dev/flutter/material/Scaffold-class.html
 
 ## 📦 Dependencias
 
