@@ -18,7 +18,7 @@
 
 ## 📝 Documento paso a paso
 
-- Guía completa: https://docs.google.com/document/d/1wfS55FDrkhcB0yk-Y6auuN2Oc7gi8K38BVe9wZzNWms/edit?tab=t.0#heading=h.pj806fwn9pbf
+- Guía completa: [https://docs.google.com/document/d/1wfS55FDrkhcB0yk-Y6auuN2Oc7gi8K38BVe9wZzNWms/edit?tab=t.0#heading=h.pj806fwn9pbf](https://docs.google.com/document/d/1wfS55FDrkhcB0yk-Y6auuN2Oc7gi8K38BVe9wZzNWms/edit?usp=sharing)
 
 ## 🏗️ Estructura del Proyecto
 
